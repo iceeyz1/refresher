@@ -7,7 +7,7 @@ A simple Python script that opens a website in your default browser and refreshe
 
 ## Features
 
-- Opens any website link in your browser
+- Opens any website link in your default browser
 - Refreshes the page automatically
 - Lets you choose:
   - the number of refreshes
