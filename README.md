@@ -24,7 +24,7 @@ The script:
 4. Opens the website in your default browser
 5. Presses `F5` repeatedly to refresh the page
 
-## Requirements (If you want to compile it yourself!)
+## Requirements (If you want to run the .py)
 
 You need Python installed, plus these modules:
 
