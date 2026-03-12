@@ -2,6 +2,9 @@
 
 A simple Python script that opens a website in your default browser and refreshes it automatically as many times as you want.
 
+## Download
+[![Download EXE](https://img.shields.io/badge/Download-Windows%20Executable-green)](https://github.com/iceeyz1/refresher/releases/tag/executeable)
+
 ## Features
 
 - Opens any website link in your browser
@@ -21,7 +24,7 @@ The script:
 4. Opens the website in your default browser
 5. Presses `F5` repeatedly to refresh the page
 
-## Requirements
+## Requirements (If you want to compile it yourself!)
 
 You need Python installed, plus these modules:
 
