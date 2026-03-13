@@ -23,7 +23,7 @@ Download the compiled `.exe` if you don't want to install Python.
 - Lets you choose:
   - number of refreshes
   - delay between refreshes
-- Very lightweight
+- Lightweight
 - No browser extensions required
 
 ---
