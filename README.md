@@ -1,20 +1,34 @@
 # refresher.py
 
+![GitHub repo size](https://img.shields.io/github/repo-size/iceeyz1/refresher)
+![GitHub stars](https://img.shields.io/github/stars/iceeyz1/refresher?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/iceeyz1/refresher)
+
 A simple Python script that opens a website in your default browser and refreshes it automatically as many times as you want.
 
+---
+
 ## Download
+
 [![Download EXE](https://img.shields.io/badge/Download-Windows%20Executable-green)](https://github.com/iceeyz1/refresher/releases/tag/executeable)
+
+Download the compiled `.exe` if you don't want to install Python.
+
+---
 
 ## Features
 
 - Opens any website link in your default browser
-- Refreshes the page automatically
+- Automatically refreshes the page
 - Lets you choose:
-  - the number of refreshes
-  - the delay between each refresh
-- Very lightweight and easy to use
+  - number of refreshes
+  - delay between refreshes
+- Very lightweight
+- No browser extensions required
 
-## How it works
+---
+
+## How it Works
 
 The script:
 
@@ -24,20 +38,40 @@ The script:
 4. Opens the website in your default browser
 5. Presses `F5` repeatedly to refresh the page
 
-## Requirements (If you want to run the .py)
+---
 
-You need Python installed, plus these modules:
+## Requirements (for running the `.py` file)
 
-- `webbrowser`  
-- `time`  
+You need Python installed.
+
+Required modules:
+
+- `webbrowser`
+- `time`
 - `pyautogui`
 
-`webbrowser` and `time` are included with Python by default.  
-You only need to install `pyautogui`.
+`webbrowser` and `time` are included with Python by default.
+
+You only need to install **pyautogui**.
+
+---
 
 ## Installation
 
-Install `pyautogui` with:
+Install the required module:
 
 ```bash
 pip install pyautogui
+```
+
+Then run the script:
+
+```bash
+python refresher.py
+```
+
+---
+
+## License
+
+MIT License
